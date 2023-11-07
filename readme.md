@@ -10,7 +10,7 @@ features and concepts from other applications.
 ## Sponsors
 Work to build and maintain MPXJ is kindly supported by my sponsors:
 
-<p float="left" align="middle" style="margin-block-end: 0em; margin-block-start: 0em;">
+<p float="left" align="middle" style="background-color: #FFFFFF; margin-block-end: 0em; margin-block-start: 0em;">
 <a href="https://steelray.com/"><img width="30%" alt="Steelray Logo" src="mkdocs/docs/images/steelray.png"/></a>
 <img width="5%"/>
 <a href="https://www.vosesoftware.com/"><img width="30%" alt="Vose Logo" src="mkdocs/docs/images/vose.png"/></a>
